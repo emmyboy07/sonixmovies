@@ -1,0 +1,10 @@
+project-root/
+├── public/
+│   └── .well-known/
+│       └── assetlinks.json
+├── app/
+├── components/
+├── lib/
+├── pages/
+└── other files (next.config.js, package.json, etc.)
+
